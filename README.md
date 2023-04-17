@@ -2,7 +2,7 @@
 
 :speech_balloon: Indirme linki ve ekledigim ozellikler OSP olarak yakinda yayinlanacaktir. :speech_balloon:
 
-Eklenen Ozellikler
+:anger: Eklenen Ozellikler :anger:
 - Karakollar kurma ve yukseltme
 - Gelismis devlet raporu
 - Devlet memurlarinin itemlerini degistirebilme
@@ -24,9 +24,9 @@ Eklenen Ozellikler
 - Lordlarin taraf degistimresini kapatip acabilme
 - Gelismis cocuk sistemi
 
-Eklenen Ozellikler
+:boom: Eklenen Itemler :boom:
 - Naft
 - Mesale
 
-Duzeltilen Hatalar
+:rosette: Duzeltilen Hatalar: :rosette:
 - Kusatmalarda kendi askerini gonder secenegi ile savasi kazandiktan sonra menuye atma hatasi giderildi
